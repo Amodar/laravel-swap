@@ -1,5 +1,5 @@
 {
-    "name": "florianv/laravel-swap",
+    "name": "amodar/laravel-swap",
     "type": "library",
     "description": "Currency exchange rates library for Laravel and Lumen",
     "keywords": [
@@ -33,7 +33,7 @@
     "require": {
         "php": "^7.1.3",
         "florianv/swap": "^4.0",
-        "cache/illuminate-adapter": "^0.2.0",
+        "amodar/illuminate-adapter": "dev-master",
         "cache/simple-cache-bridge": "^1.0"
     },
     "require-dev": {
