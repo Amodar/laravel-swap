@@ -1,4 +1,4 @@
-# Temp fork will be deleted once the florianv/laravel-swap supports Laravel 6
+# Temp fork will archived once the florianv/laravel-swap supports Laravel 6
 # <img src="https://s3.amazonaws.com/swap.assets/swap_logo.png" height="30px" width="30px"/> Laravel Swap
 
 [![Build status](https://img.shields.io/travis/amodar/laravel-swap.svg?style=flat-square)](https://travis-ci.org/amodar/laravel-swap)
