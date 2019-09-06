@@ -1,7 +1,7 @@
 # temp fork will be deleted once the florianv/laravel-swap supports Laravel 6
 # <img src="https://s3.amazonaws.com/swap.assets/swap_logo.png" height="30px" width="30px"/> Laravel Swap
 
-[![Build status](hhttps://img.shields.io/travis/amodar/laravel-swap.svg?style=flat-square)](https://travis-ci.org/amodar/laravel-swap)
+[![Build status](https://img.shields.io/travis/amodar/laravel-swap.svg?style=flat-square)](https://travis-ci.org/amodar/laravel-swap)
 [![Total Downloads](https://img.shields.io/packagist/dt/florianv/laravel-swap.svg?style=flat-square)](https://packagist.org/packages/florianv/laravel-swap)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/florianv/laravel-swap.svg?style=flat-square)](https://scrutinizer-ci.com/g/florianv/laravel-swap)
 [![Version](http://img.shields.io/packagist/v/florianv/laravel-swap.svg?style=flat-square)](https://packagist.org/packages/florianv/laravel-swap)
